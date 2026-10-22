@@ -1,0 +1,456 @@
+---------------------------------------------------------------------
+I								    I
+I	 *******     *****     **	 **    **     *****	    I
+I	****	    *	  *    **	 ***  ***    **   **	    I
+I	***	    *	  *    **	 ********    **   **	    I
+I	 ****	    *******    **	 ** ** **    **   **	    I
+I	   ***	    *******    **	 **    **    **   **	    I
+I	    ***		       **	 **    **    **   **	    I
+I	     ***    **	 **    **	 **    **    **   **	    I
+I	    ****    **	 **    **	 **    **    **   **	    I
+I	*******     **	 **    *******	 **    **     *****	    I
+I								    I
+---------------------------------------------------------------------
+
+			   'L'aventure du saumon' 
+
+		      pour IBM PC et compatibles
+				 V 1.0
+		       (c) Myriad+EDF+CSP Juillet 1990
+		       --------------------------
+
+"...Au XVIIIŠme siŠcle, les Gens de Maison refusaient qu'on leur serve
+du saumon plus de trois fois par semaine.
+Le moulin du Bazacle … Toulouse subit une grŠve au XVIŠme car les
+ouvriers en avaient assez de manger du saumon...' 
+
+De nos jours .... o— sont pass‚s les saumons ?
+
+
+- Mais vous voulez peut-ˆtre jouer tout de suite :
+-------------------------------------------------
+Aucun problŠme, sous  MSDOS, tapez SALMO suivi de  'Entr‚e'. Mais nous
+vous conseillons  tout de mˆme de  revenir tout … l'heure,lire  ce qui
+suit.
+
+- Introduction
+--------------
+'SALMO'  a  ‚t‚  d‚velopp‚  par  la  soci‚t‚  MYRIAD,  sur une demande
+d'Electricit‚  de  France  et  du  Conseil  Sup‚rieur  de la Pˆche. Ce
+logiciel va  vous pr‚senter par  l'interm‚diaire de jeux,  des donn‚es
+scientifiques  trŠs s‚rieuses,	rassembl‚es par  les sp‚cialistes  des
+poissons  Migrateur d'EDF,  du Conseil   Sup‚rieur de  la Pˆche  et du
+CEMAGREF.
+
+En effet depuis plusieurs ann‚es, le problŠme de l'eau devient de plus
+en  plus  crucial.  Des  ‚tudes   ont  ‚t‚  faites  sur  les  poissons
+migrateurs, et plus particuliŠrement  les Salmonid‚s qui sont l'indice
+de bonne  sant‚ d'une riviŠre.  Les sp‚cialistes se  sont rendu compte
+que  beaucoup de  riviŠres, autrefois  riches en  saumon, ont perdu la
+totalit‚ de leur population … cause d'obstacles artificiels peu ou mal
+am‚nag‚s, de  pollutions et autres causes  qui seront d‚velopp‚es dans
+le logiciel.
+
+Pour  r‚introduire  et	pr‚server  le  saumon,	il  a  ‚t‚  n‚cessaire
+d'approfondir  nos  connaissances  sur  cette  espŠce.  L'‚tude  de sa
+biologie a  permis de pr‚ciser les exigences du  saumon en matiŠre  de
+qualit‚  d'habitat  et  de  d‚finir  ses  capacit‚s  de d‚placement en
+fonction de la temp‚rature et de la vitesse du courant.
+
+On a ainsi put construire des  passes … poisson efficaces et fixer des
+quotas de capture destin‚s … pr‚server les populations.
+
+Ce logiciel va vous initier … la biologie des poissons migrateurs, que
+ce soit des salmonid‚s comme la  truite ou le saumon, ou d'autres tels
+l'esturgeon, l'alose,  la lamproie ou  l'anguille. Puis pour  que vous
+compreniez bien  les problŠmes qui  se posent …  notre ami le  saumon,
+pendant  quelques  temps,  la  f‚e  informatique  vous transformera en
+saumon	et  VOUS  devrez  lutter  pour	remonter jusqu'aux frayŠres au
+m‚pris des obstacles  et des dangers, des crues  de Printemps qui vous
+repousseront sans piti‚, des  sŠcheresse d'Ao–t qui vous asphyxieront,
+des obstacles qui vous bloqueront la voie.
+
+
+Dans  une deuxiŠme  ‚tape, vous  prendrez la  place d'un  gestionnaire
+et  devrez  am‚nager   une  riviŠre,  obstacle par obstacle,  … l'aide
+des (maigres) cr‚dits qui vous seront allou‚s.
+
+Attention, … aucun moment l'information ne vous sera ass‚n‚e! Ce n'est
+pas la T.V. ici ! Apprenez … aller pˆcher (!!!) l'information.
+
+- J'ai envie de copier le logiciel pour le donner … un ami
+----------------------------------------------------------
+Ce logiciel repond au principe imp‚ratif :
+
+		     COPIE LIBRE, VENTE INTERDITE.
+
+Ce logiciel est en libre copie. Ceci veut dire	que vous avez le droit
+de le copier et de le donner autour de vous. Mais attention :
+
+	      IL EST STRICTEMENT INTERDIT DE MODIFIER OU
+		    DE REVENDRE CE LOGICIEL !!!.
+
+Que ce soit sous forme de compil' de "freeware", de t‚l‚chargement, et
+autres proc‚d‚s assimil‚s.
+
+Si  vous disposez  de ce  logiciel  par  une copie  libre et  que vous
+d‚sirez en avoir  un exemplaire complet, vous pouvez  vous le procurer
+en  envoyant un  chŠque de  95 F  … MYRIAD,  4 rue  de Bordeaux  31200
+Toulouse. Vous	recevrez alors le logiciel  avec son emballage complet
+et surtout sa notice, trŠs complŠte, bourr‚e de renseignements sur les
+astuces de jeu et la biologie des poissons migrateurs.
+
+N'oubliez  pas  de  recopier  la  totalit‚  des  fichiers  pour que le
+logiciel fonctionne correctement.
+Pour  ˆtre s–r	de ne	pas faire  d'erreur, introduisez  la disquette
+originale dans le lecteur A:,  une disquette format‚e (commande FORMAT
+du MS-DOS) dans le lecteur B: et tapez
+
+			COPY A:*.* B:
+
+De la mˆme  maniŠre vous pouvez recopier le  logiciel sur votre disque
+dur.
+
+Les fichiers que vous devez avoir sur votre disque sont :
+
+ salmo.exe    |> L'ex‚cutable.The master. Indispensable.
+
+ showpage.exe |> Affiche la page graphique de pr‚sentation
+ salmo.vga    |> Les donn‚es de la page graphique
+
+ myriad.cfg   |> Fichier de configuration
+ icones.mok   |> Graphismes systŠmes (souris, boutons...)
+
+ helvet10.FNK |
+ helvet18.FNK |> Fontes de caractŠres utilis‚es
+
+ salgen.mok   |> Graphisme du g‚n‚rique
+ salgen.dec   |> Pages du g‚n‚rique
+ salmo.txt    |> Textes (ne surtout pas modifier).
+ saudid.dec   |> Pages didactiques cr‚‚es par MYDAC
+ sauergo.dec  |> Pages expliquant l'ergonomie
+ passes.dec   |> Pages montrant les passes … poissons
+ bief.dat     |> Semences des biefs
+
+ saudid1.mvo  \
+ saudid2.mvo  |
+ sauwin.mvo   |> Langage objet de description des animations
+ cascade.mvo  |  utilis‚ dans les pages didactiques.
+	      /
+
+ saudid1.mok  \
+ saudid2.mok  |
+ saudid3.mok  |
+ saumax.mok   |
+ saugros.mok  |
+ salgag.mok   |
+ salgest.mok  |
+ babas.mok    |
+ sauwin.mok   |
+ saumon.mok   |
+ decrem.mok   |> Graphismes compress‚s.
+ mouche.mok   |
+ fondrem.mok  |
+ rdpoubel.mok |
+ rdpoteau.mok |
+ rdpierre.mok |
+ rdblocks.mok |
+ sautmon.mok  |
+ cascdec1.mok |
+ cascdec2.mok |
+ cascade.mok  |
+ passes.mok   |
+ ouvrage.mok  /
+
+ salbong.smp  \
+ salaqua.smp  |
+ salplouf.smp |> Bruitages digitalis‚s
+ salvan.smp   |
+	      /
+ salmo.hit    |> The Hall of Fame
+
+
+- Quelles sont les options de configuration
+-------------------------------------------
+Lorsque vous lancez le programme salmo, vous pouvez taper derriŠre le
+nom une ou plusieurs options d'appel. Une option commence toujours par
+un '-'. Les diff‚rentes options sont :
+
+	-AIDE |
+	-HELP |> Affiche la liste des options disponibles.
+	-H    |
+
+Pour fixer la carte graphique
+
+	-CGA force le graphisme en CGA, trŠs utile si vous avez un AT
+	  lent avec carte EGA et que vous d‚siriez jouer en CGA pour
+	  aller plus vite. De mˆme si vous ˆtes sur d'avoir une carte
+	  CGA et que SALMO ne la reconnaisse pas.
+
+	-EGA pour forcer le graphisme en EGA.
+
+	-VGA pour forcer le graphisme en mode VGA 256 couleurs.
+
+	-HER  pour  forcer  le	graphisme  en  Hercules. De nombreuses
+	cartes	 multifonctions,   une	  fois	 en   Hercules,   sont
+	indiscernables	d'une  carte  EGA  (RAM  en  A000,  ports  EGA
+	toujours valides)
+
+Pour fixer le p‚riph‚rique de commande
+
+       -PDS pour ignorer la souris et jouer au clavier ou au joystick.
+       Le joystick reconnu est le joystick standard. La fonction
+       utilis‚e est la fonction 84h de l'int 15h
+	=> AH = 084h
+	   DX = 1
+	<= Carry = 1 pas de joystick
+	   Carry = 0
+			AX Pos X Joy 1
+			BX Pos Y Joy 1
+	Si le  joystick ne fonctionne pas,  v‚rifier sa connection. Si
+	les sympt“mes persistent consultez votre SAV.
+
+       -JOY pour ignorer la souris et jouer au joystick.
+
+       -SENSIB nnn rŠgle la sensibilit‚ souris/joystick n de 1 … 100
+	       en standard la valeur est 68.
+
+       -NONSTD Pour pouvoir tester deux touches en mˆme temps, le
+	vecteur clavier 16h est d‚tourn‚ et g‚r‚ comme un clavier
+	standard, en cas de problŠme (clavier non standard) utilisez
+	cette option pour emp‚cher le d‚tournement.
+
+
+       -NO18  Pour synchroniser les ‚vŠnements, on utilise la case
+	       40h:6ch qui contient sur un PC la valeur de l'horloge.
+	       Si votre 'PC' ne respecte pas ceci, utilisez cette
+	       option.
+
+	-NOTE Cette option fait un petit check de votre PC et donne une
+	note. Cette note sera l‚gŠrement diff‚rente de celle optenue
+	par PC-TOOLS car nous tenons compte de la vitesse de la RAM
+	vid‚o. Par exemple : aque sur ma b‚cane … moi, qu'es pas une
+	Harley mais une Hachep‚ aque j'ai :
+
+		Note du compatible par rapport … un Pc 4 MHz 1094
+		Processeur : 80286-80386
+		M‚moire Ram disponible :386674 octets.
+		M‚moire ‚tendue 1024 Ko
+
+	La note est un pourcentage. En fonction de ce chiffre magique, voici
+	les pr‚dictions de Madame Galaxie:
+
+	Si vous  ˆtes >= 640% Ok  c'est bon si c'est  un AT;par contre
+	bofbofbof  si c'est  un 386  ....
+
+	Si vous  ˆtes < 300%  pas la peine  d'essayer le mode  EGA.
+
+	Si vous ˆtes  < 200%,  Dur dur pour salmo. Par contre, le
+	clavier  fait  un  excellent  paillasson  quand  on  rentre du
+	jardin...
+
+	-FNOTE nnnn Etant donn‚ que certaines g‚n‚rations de d‚cor se font
+	en fonction de la vitesse processeur, (si vous voulez avoir plus
+	de pierres dans le bief par exemple) vous pouvez forcer la note de
+	votre compatible. Mais c'est un peu comme si vous rajoutiez un z‚ro
+	au feutre … chacun des chiffres du tachymŠtre de votre deudeuche.
+
+	-MEM nnn supprime nnn Ko de la m‚moire libre. A r‚server aux masos.
+
+	-TOTAL Charge le maximum de fichiers en m‚moire dŠs le d‚part. Ceci
+	r‚duit les accŠs disques durant le d‚roulement du jeu et les regroupe
+	au d‚but.
+
+	-VOLUME xxx Fixe le volume sonore. 0 = Silence !
+	 A notre connaissance, c'est la premiŠre fois que l'on dispose
+		d'un volume SOFT sur PC. Merci qui ? Merci MYRIAD.
+
+	-MACRO xxx Initialisation du tampon clavier avec xxx. Exemple:
+		   salmo -macro eeee va lancer salmo et tout de suite
+		   passer aux pages didactiques.
+
+	-NOXTMEM Empˆche le test et l'utilisation de la m‚moire ‚tendue si
+	celle-ci est r‚serv‚e … un autre usage.
+
+	-NOPAGE Supprime le chargement de la page graphique de pr‚sentation.
+
+
+-Oui mais moi,
+	j'ai un SXPC Ta‹wan 512 Ko avec souris parallŠle et carte Hercules
+--------------------------------------------------------------------------
+
+Pas de problŠme, la plupart des  cartes sont reconnues par le logiciel:
+
+		Carte Hercules,
+		Carte CGA,
+		Carte EGA,
+		Carte VGA.
+
+
+Les  modes Hercules  et CGA  n‚cessitent  au  moins 512  Ko de	m‚moire
+centrale, les cartes EGA et VGA au moins 640 Ko. En mode VGA on utilise
+le  mode compatible  EGA, donc	tout ce  passe comme  si l'on avait une
+carte  EGA. Pour  jouer en  CGA bien  que l'on  dispose d'une carte EGA
+taper
+
+			SALMO -CGA
+
+Pour  les souris,  il est  n‚cessaire de  les installer  auparavant. En
+g‚n‚ral, est livr‚  avec la souris un petit  programme appel‚ MOUSE.COM
+qu'il suffit d'ex‚cuter une fois pour pouvoir user du redoutable petit
+animal.
+
+Si vous voulez jouer au clavier alors qu'une souris est install‚e, tapez
+
+			SALMO -PDS
+
+o— PDS indique Pas De Souris.  Ceci peut ˆtre ‚galement utile si votre
+ordinateur est	peu compatible au  niveau de l'interruption  33H de la
+souris,  en particulier  les Olivetti,	Logabax et  autres HermŠs  qui
+'plantent' si une souris n'est pas install‚e et qu'on la teste ...
+
+
+
+Si  un	problŠme  de  place  m‚moire  est  rencontr‚  en mode EGA ( en
+particulier sur PS ) il est n‚cessaire de d‚marrer le systŠme … partir
+d'une  disquette  MS-DOS  d'origine  pour  qu'aucun  logiciel  ne soit
+pr‚sent en m‚moire. Puis taper
+
+
+			SALMO -EGA.
+
+Le logiciel reconnait et gŠre la m‚moire ‚tendue VRAIE (non pagin‚,
+adresse >100000H).
+
+- Oui mais j'ai encore un problŠme sur mon XYM PC, pourtant
+r‚put‚ compatible 120 % par Monsieur le Marchand d'Ordinateur
+-------------------------------------------------------------
+Ecrivez-nous en d‚crivant: La marque et le modŠle de votre ordinateur,
+le type de carte graphique, le type de souris, la version de MS-DOS
+utilis‚e, la version du driver souris utilis‚, le contenu de votre
+AUTOEXEC.BAT et CONFIG.SYS.
+
+				 MYRIAD
+			 Service des Coeurs Bris‚s
+			    4, rue de Bordeaux
+			     31200 TOULOUSE
+
+Des conseils adapt‚s ou une version sp‚ciale vous seront adress‚s au
+plus vite.
+
+
+- Oui mais, moi j'ai un Amiga...
+------------------------------
+SALMO fonctionne sur PC, Atari ST et Macintosh. Pour l'instant
+l'adaptation sur des machines telles que l'Amiga n'est
+pas envisag‚e, vu la pauvret‚ des demandes. Mais ‚crivez-nous pour
+prouver que vous ˆtes motiv‚s et on se d‚cidera peut-ˆtre...
+
+- Comment est-ce fait ?
+-----------------------
+A 90 % en langage C. Le reste en assembleur. Les objets graphiques
+sont dessin‚s sous EDIMOB sur ATARI ST. Les pages didactiques
+sont cr‚‚es … l'aide d'un ‚diteur de pages: MYDAC sur PC en utilisant
+les objets. Les animations sont d‚crites dans un langage objet : KP.
+
+- Et la page de pr‚sentation ?
+------------------------------
+Elle a ‚t‚ calcul‚e sur IBM PC, grƒce au programme TRACE, r‚alis‚ par
+MYRIAD. La technique employ‚e est le RAY-TRACING (lancer de rayon).
+
+L'univers …  repr‚senter est d‚fini  en trois  dimensions sous  forme
+math‚matique : le corps du saumon, par	exemple, est  constitu‚ d'une
+cinquantaine  de  sphŠres semi-r‚fl‚chissantes.  Une  fois  l'univers
+entiŠrement  d‚crit  (position des sources de  lumiŠre et des  divers
+autres	objets), le  programme trace  point par  point	l'image telle
+qu'elle serait vue d'un endroit de l'espace donn‚.
+La page de  pr‚sentation a ‚t‚ calcul‚e en 1280 x 800  points, chaque
+point  prenant une couleur choisie dans une palette de 16 millions de
+teintes.
+Le calcul a dur‚ 9 heures. La page a ensuite ‚t‚  trait‚e afin d'ˆtre
+affich‚e au mieux sur l'adaptateur graphique utilis‚.
+
+
+- Y a-t'il d'autres softs sign‚s MYRIAD ?
+-----------------------------------------
+La soci‚t‚  MYRIAD regroupe dans ses  rangs des auteurs de  jeux vid‚o
+qui  appliquent aux  logiciels	didactiques  les mˆmes	principes qu'…
+leurs autres cr‚ations : originalit‚ des concepts, rapidit‚ du code.
+
+MYRIAD d‚veloppe des applications dans tous les domaines graphiques et
+sonores  que ce  soit les  jeux vid‚o,	les logiciels didactiques, les
+panneaux publicitaires g‚ants anim‚s ou l'imagerie m‚dicale.
+
+
+Quelques cr‚ations MYRIAD :
+
+'La vie du lac' traite des problŠmes de pollution des lacs. Comme
+salmo il se divise en deux parties: une partie didactique d‚crivant le
+plancton,   les  problŠmes   d'eutrophisation  ...   puis  une  partie
+manipulation o—  l'on suit l'‚volution	‚cologique du lac  au cours du
+temps et en fonction des degr‚s de pollution.
+Ce logiciel r‚alis‚ et ‚dit‚ par MYRIAD est distribu‚ par :
+EDF, Mission Environnement,26 rue de la Baume 75008 Paris.
+
+'Scithy' : Logiciel de saisie, de stockage et de traitement d'images
+obtenues …  partir d'un scintigraphe (appareil  mesurant de fa‡on trŠs
+fine (pr‚cision 1mmý) la quantit‚ de  radio-activit‚ fix‚e par une glande
+(par ex thyro‹de)  aprŠs injection d'iode radioactif). L'appareil balaye
+la zone, ce qui permet de constituer une image.
+
+'Fario' traite de la vie des truites de riviŠre et des problŠmes des
+d‚bits r‚serv‚s.
+
+
+
+A bient“t.
+
+
+
+
+
+
+				MYRIAD
+			  4,rue de Bordeaux
+			    31200 Toulouse
+			   (16) 61-47-23-40
+
+
+
+			    Les auteurs
+			    -----------
+
+	  Didier Guillion : graphismes, programmation en C.
+
+	       Olivier Guillion et Jean-Michel	Georges :
+		    programmation en assembleur
+
+
+
+
+
+
+
+
+
+
+			Partie Scientifique
+			-------------------
+			Fran‡ois TRAVADE
+		    d'Electricit‚ de France
+
+		      Jean-Pierre PORCHER
+		  du Conseil Sup‚rieur de la Pˆche
+
+			 Michel LARINIER
+			  du CEMAGREF
+
+
+
+
+
+
+
+---------------------- Fin du lisez.moi --------------------------
+
+
